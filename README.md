@@ -32,21 +32,18 @@ java Filename
 
 The repository is divided into daily classwork and structured assignment folders, growing from basic to advanced levels:
 
+```text
 Java_Programming/
 ├── README.md
 ├── Classwork/ (Daily batch practice programs)
 │   ├── Day_01/
 │   │   ├── Program1.java
-│   │   ├── Program2.java
-│   │   └── ...
-│   ├── Day_02/
-│   │   └── ...
+│   │   └── Program2.java
+│   └── Day_02/
 └── Assignments/ (Logic Building Assignments)
-    ├── Assignment_1/ 
+    ├── Assignment_1/
     │   ├── Main.java
     │   ├── Program1_1.java
-    │   ├── Program1_2.java
-    │   └── ...
-    ├── Assignment_2/ 
-    │   ├── Program2_1.java
-    │   └── ...
+    │   └── Program1_2.java
+    └── Assignment_2/
+        └── Program2_1.java
